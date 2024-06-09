@@ -1,0 +1,15 @@
+.myFrame{
+    width: 600px;
+    padding: 25px;
+    background-color: white; 
+    border-radius: 10px;
+}
+
+.root{
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dfe6e9;
+    padding: 20px;
+}
